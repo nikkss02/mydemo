@@ -10,6 +10,6 @@ object1= {"a":{"b":{"c":"d"}}}
 key1= "a/b/c"
 print(challenge_3(object1,key1))
 
-object2= {"x":{"y":{"z":"d"}}}
+object2= {"x":{"y":{"z":"a"}}}
 key2= "x/y/z"
 print(challenge_3(object2,key2))
